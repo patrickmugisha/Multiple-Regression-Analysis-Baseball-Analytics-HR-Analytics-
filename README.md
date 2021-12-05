@@ -7,8 +7,7 @@ Model Development / Evaluation / Deployment:
 
 We use scikit, the python package for statistical analysis and data mining (predictive analytics)
 
-Model Validation: 
-
+Model Validation: <br>
 • split validation (70% of the original data as training and the other 30% as testing dataset)
 
 • cross validation (90% of the original data as training and the other 10% as testing dataset)
